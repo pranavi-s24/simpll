@@ -4,6 +4,9 @@ body {
        font-size: x-large;
      }
 }
+img {
+       max-width:100%;
+}   
 p    {
        display: block;
        width:60%;

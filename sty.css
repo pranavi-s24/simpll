@@ -1,7 +1,9 @@
+@media screen and (min-width: 420px) {
 body {
        text-align: center;
        font-size: x-large;
      }
+}
 p    {
        display: block;
        width:60%;

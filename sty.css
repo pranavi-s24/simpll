@@ -18,14 +18,14 @@ p    {
        display: block;
      }
 .contain {
-       max-width:95%;
+       max-width:100%;
        display:block;
 }
 .contain div{
                 text-align: center;
-                margin:1%;
+                margin:0.5%;
                 border:0.4%;
-                padding: 1%;
+                padding: 0.5%;
                 width:23.56%;
                 height:auto;
                 display:inline-block;

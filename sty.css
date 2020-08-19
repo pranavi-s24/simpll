@@ -17,6 +17,10 @@ p    {
        text-align: center;
        display: block;
      }
+.contain {
+       width:95%;
+       display:block;
+}
 .contain div{
                 text-align: center;
                 margin:1%;

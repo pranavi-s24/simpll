@@ -24,6 +24,7 @@ p    {
                 padding: 1%;
                 width:25.56%;
                 height:auto;
+                display:inline-block;
             }
 div {
         width:20%;

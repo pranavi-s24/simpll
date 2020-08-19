@@ -1,9 +1,7 @@
-@media screen and (min-width: 420px) {
 body {
        text-align: center;
        font-size: x-large;
      }
-}
 img {
        max-width:100%;
 }   

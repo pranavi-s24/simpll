@@ -1,44 +1,6 @@
 <html>
     <head>
-        <style>
-            body {
-                text-align: center;
-                font-size: x-large;
-            }
-            p {
-                display: block;
-                width:60%;
-                margin: auto;
-                text-align: center;
-            }
-            .container{
-                display: flex;
-                text-align: center;
-                display: block;
-            }
-            .contain div{
-                text-align: center;
-                padding: 1%;
-                width:25%;
-                height:15%;
-            }
-            div {
-                width:20%;
-                text-align: center;
-                height: 20%;
-                margin:2%;
-                display: inline-block;
-            }
-            div:nth-child(1) {
-                border:4px solid rgba(80, 80, 204, 0.849);
-            }
-            div:nth-child(2) {
-                border:4px solid rgba(80, 211, 101, 0.849);
-            }
-            div:nth-child(3) {
-                border:4px solid rgba(211, 69, 176, 0.849);
-            }
-        </style>
+        <link rel="stylesheet" type="text/css" href="sty.css">
     </head>
     <body>
         <h2>Heading One</h2>

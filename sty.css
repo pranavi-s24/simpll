@@ -15,16 +15,11 @@
                 text-align: center;
                 display: block;
             }
-            .contain {
-                display:block;
-                display:flex;
-             }
             .contain > div{
                 text-align: center;
                 padding: 1%;
                 width:25%;
                 height:auto;
-                display: inline-block;
             }
             div {
                 width:20%;

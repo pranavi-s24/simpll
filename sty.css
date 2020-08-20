@@ -15,16 +15,7 @@
                 text-align: center;
                 display: block;
             }
-           .contain {
-                       display:flex;
-}
-            .contain div{
-                display:flex;
-                text-align: center;
-                padding: 1%;
-                width:20%;
-                height:30%;
-            }
+           
             div {
                 width:20%;
                 text-align: center;

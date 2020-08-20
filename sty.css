@@ -15,13 +15,13 @@
                 text-align: center;
                 display: block;
             }
-            .contain div{
+            .contain > div{
                 text-align: center;
                 padding: 1%;
                 width:25%;
                 height:100%;
             }
-            div {
+            .container > div {
                 width:20%;
                 text-align: center;
                 height: 25%;

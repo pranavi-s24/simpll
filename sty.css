@@ -26,7 +26,7 @@
                 height:auto;
                 display: inline-block;
             }
-            .container > div {
+            div {
                 width:20%;
                 text-align: center;
                 height: 20%;

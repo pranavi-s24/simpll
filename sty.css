@@ -19,6 +19,7 @@
                        display:flex;
 }
             .contain div{
+                display:flex;
                 text-align: center;
                 padding: 1%;
                 width:20%;

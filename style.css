@@ -11,14 +11,12 @@
                 justify-content: center;
             }
             div.contain {
-                text-align: center;
                 padding: 1%;
                 width:25%;
                 height:auto;	               
             }	            
              div.container {
-                width:20%;	                
-                text-align: center;	                
+                width:20%;	                	                
                 height: 20%;	                
                 margin:2%;	               	             
               }	            

@@ -6,7 +6,7 @@
                 width:60%;
                 margin: auto;
             }
-            .container, .contain{
+            nav{
                 display: flex;
                 justify-content: center;
             }

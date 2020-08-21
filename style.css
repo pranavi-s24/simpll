@@ -4,26 +4,6 @@
                 font-size: 20px;
             }
             }
-@media screen and (max-width:380px) {
-            .container{
-                display: flex;
-                flex-flow: column wrap;
-                text-align: center;
-            }
-            .contain div{
-                text-align: center;
-                padding: 1%;
-                width:150px;
-                height:auto;	               
-            }	            
-             div {
-                width:100px;	                
-                text-align: center;	                
-                height: 100px;	                
-                margin:2%;	               
-                flex-flow: column wrap;
-              }
-}
             p {
                 display: block;
                 width:60%;

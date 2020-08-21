@@ -6,8 +6,9 @@
                 width:60%;
                 margin: auto;
             }
-            nav.container{
+            .container, .contain{
                 display: flex;
+                flex-flow : row nowrap;
                 justify-content: center;
             }
             .contain div{

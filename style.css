@@ -9,7 +9,7 @@
                 margin: auto;
             }
             nav.container{
-                flex: none;
+                display: flex;
                 justify-content: center;
             }
             .contain div{

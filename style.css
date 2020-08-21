@@ -22,7 +22,7 @@
                 height: 200px;	                
                 margin:2%;	               	             
               }
-@media screen and (max-width:380px) {
+@media screen and (max-width:780px) {
              nav{
                 display: flex;
                 flex-wrap: wrap;
@@ -32,7 +32,26 @@
              .contain div {
                 padding: 1%;
                 margin:1%;
-                width:25%;
+                width:75%;
+                height:auto;	               
+            }	            
+            div {
+                width:200px;	                	                
+                height: 200px;	                
+                margin:2%;	               	             
+              }
+}
+@media screen and (max-width:450px) {
+             nav{
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                height: auto;
+            }
+             .contain div {
+                padding: 1%;
+                margin:1%;
+                width:75%;
                 height:auto;	               
             }	            
             div {

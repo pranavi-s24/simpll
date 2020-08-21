@@ -11,13 +11,13 @@
                 justify-content: center;
                 height: auto;
             }
-            div.contain {
+            div .contain {
                 padding: 1%;
                 margin:1%;
                 width:25%;
                 height:auto;	               
             }	            
-             div.container {
+             div .container {
                 width:200px;	                	                
                 height: 200px;	                
                 margin:2%;	               	             

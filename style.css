@@ -7,7 +7,7 @@
                 margin: auto;
             }
             .container, .contain{
-                display: flex;
+                display: block;
                 flex-flow : row nowrap;
                 justify-content: center;
             }

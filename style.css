@@ -11,6 +11,7 @@
                 text-align: center;
             }
             .container{
+                display: none;
                 justify-content: center;
             }
             .contain div{

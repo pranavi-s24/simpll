@@ -1,9 +1,29 @@
 @media screen and (min-width: 420px) {
             body {
                 text-align: center;
-                font-size: x-large;
+                font-size: 20px;
             }
             }
+@media screen and (max-width:380px) {
+            .container{
+                display: flex;
+                flex-flow: column wrap;
+                text-align: center;
+            }
+            .contain div{
+                text-align: center;
+                padding: 1%;
+                width:150px;
+                height:auto;	               
+            }	            
+             div {
+                width:100px;	                
+                text-align: center;	                
+                height: 100px;	                
+                margin:2%;	               
+                flex-flow: column wrap;
+              }
+}
             p {
                 display: block;
                 width:60%;
@@ -13,7 +33,6 @@
             .container{
                 display: flex;
                 text-align: center;
-                display: block;
             }
             .contain div{
                 text-align: center;

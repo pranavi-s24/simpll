@@ -7,17 +7,16 @@
                 margin: auto;
             }
             .container, .contain{
-                display: block;
-                flex-flow : row nowrap;
+                display: flex;
                 justify-content: center;
             }
-            .contain div{
+            div.contain {
                 text-align: center;
                 padding: 1%;
                 width:25%;
                 height:auto;	               
             }	            
-             .container div {
+             div.container {
                 width:20%;	                
                 text-align: center;	                
                 height: 20%;	                
